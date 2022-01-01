@@ -16,7 +16,7 @@
          $header .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
          // Additional headers
-         //$header .= 'To: user2 <test@gmail.com>, user3 <mahadi002210@gmail.com>';
+         //$header .= 'To: user2 <user2@gmail.com>, user3 <user3@gmail.com>';
          $header .= 'From: user1 <test@gmail.com>';
          //$header .= 'Cc: test@example.com'; 
          //$header .= 'Bcc: test@example.com';
